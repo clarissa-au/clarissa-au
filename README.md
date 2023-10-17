@@ -2,7 +2,7 @@
 
 ### Hi there 👋 this is Clarissa
 
-- A hobbyist sysadmin for 10 years!
+- A hobbyist Linux sysadmin for 10 years!
 - Proud Head Administrator of [Tranquil Network](https://www.facebook.com/profile.php?id=100070293850526) and [Iceflame Minecraft Server](https://www.facebook.com/tomonoIIIintegratia/)!
 - Statistics and Data Science Student~
 
