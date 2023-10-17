@@ -1,4 +1,4 @@
-![Header](./clarissa-on-github.png)
+![Header](./github-header-image.png)
 
 ### Hi there 👋 this is Clarissa
 
