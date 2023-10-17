@@ -1,4 +1,6 @@
-### Hi there 👋
+![Header](./clarissa-on-github.png)
+
+### Hi there 👋 this is Clarissa
 
 <!--
 **clarissa-au/clarissa-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
