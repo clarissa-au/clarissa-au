@@ -1,10 +1,10 @@
 ![Header](./clarissa-on-github.png)
 
-### Hi there 👋 this is Clarissa
+### Hi there 👋 this is Clarissa/Melody (she/her)
 
-- A hobbyist Linux sysadmin for 10 years!
-- Proud Head Administrator of [Tranquil Network](https://www.facebook.com/profile.php?id=100070293850526) and [Iceflame Minecraft Server](https://www.facebook.com/tomonoIIIintegratia/)!
-- Statistics and Data Science Student~
+- Information Science and Web Technology Student!
+- A hobbyist homelab Linux sysadmin for quite a long time!
+- Currently working on ![Because We Develop](https://github.com/clarissa-au/fvtt-because-we-develop) and *Melodicator*, a soon-to-be Pathfinder campaign!
 
 <!--
 **clarissa-au/clarissa-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
