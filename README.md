@@ -1,10 +1,8 @@
-![Header](./clarissa-on-github.png)
-
 ### Hi there 👋 this is Clarissa/Melody (she/her)
 
 - Information Science and Web Technology Student!
 - A hobbyist homelab Linux sysadmin for quite a long time!
-- Currently working on ![Because We Develop](https://github.com/clarissa-au/fvtt-because-we-develop) and *Melodicator*, a soon-to-be Pathfinder campaign!
+- Currently working on ![Because We Develop](https://github.com/melody-au/fvtt-because-we-develop) and *Melodicator*, a soon-to-be Pathfinder campaign!
 
 <!--
 **clarissa-au/clarissa-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
